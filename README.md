@@ -16,6 +16,10 @@ Graph Algorithm, BFS
 
 Do BFS starting from the start location.
 
+Save the depth and if it arrive at the destiantion location, depth will be the answer.
+
+If it never goes in to destination after searching all possible case, the answer will be -1.
+
 ## Where can I get more help, if I need it?
 
 You can contact me through email, which is wogur7496@gmail.com.
